@@ -152,10 +152,8 @@ marketplace-leak-audit/
     memo.pdf
   report/
     MarketplaceLeakAudit_report.pdf
-    screenshots/
+  screenshots/
       overview.png
-      delivery_and_reviews.png
-      reconciliation.png
       excel_brief.png
   docs/
     data_dictionary.md
