@@ -178,4 +178,4 @@ Excel (Microsoft 365: Power Query, XLOOKUP, COUNTIFS, SUMPRODUCT, pivot tables, 
 
 ## Credit
 
-Data: Brazilian E-Commerce Public Dataset by Olist, Kaggle, licensed CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/). Modified: aggregated, joined and analyzed by Lilu Varghese. Not endorsed by Olist. This repository's write-up and screenshots are shared under the same license.
+Data: Brazilian E-Commerce Public Dataset by Olist, Kaggle, licensed CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/). Modified: aggregated, joined and analyzed by Sreenidhi reddy. Not endorsed by Olist. This repository's write-up and screenshots are shared under the same license.
